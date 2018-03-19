@@ -40,3 +40,9 @@
 [submodule "pack/cedarvim/start/vim-jsx"]
 	path = pack/cedarvim/start/vim-jsx
 	url = https://github.com/mxw/vim-jsx.git
+[submodule "pack/cedarvim/start/delimitMate"]
+	path = pack/cedarvim/start/delimitMate
+	url = https://github.com/Raimondi/delimitMate
+[submodule "pack/cedarvim/zoomwin"]
+	path = pack/cedarvim/start/zoomwin
+	url = https://github.com/vim-scripts/ZoomWin
